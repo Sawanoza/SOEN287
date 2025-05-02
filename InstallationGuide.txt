@@ -1,0 +1,5 @@
+Installation Guide:
+1. Naviguate to the "Landing Page" folder 
+2. Locate and open the "index.html" 
+
+This is the entry point for our website.

@@ -1,0 +1,48 @@
+(Deliverable 1):
+
+Features Implemented
+- Responsive Landing Page
+- Navigation bar
+- Smooth Scrolling
+- Testimonials Slider
+- Contact Information
+- Logo Design
+- Documentation
+- Software Listings
+- Animated background
+- Information for sellers 
+- User registration page
+- Visual Design
+- Show password option
+
+Features to be Implemented
+- Account management
+- Change password
+- Acquire new licenses
+- License and Serial Number management
+- License renewal
+- Notifications system
+- Manage Clients' Accounts
+- Enable/Disable serial numbers
+- Other requirements/features...
+
+
+(Deliverable 2) :
+
+Features Implemented
+- Responsive Landing Page ++
+- Navigation bar ++
+- Smooth Scrolling
+- Scroll down feature
+- Testimonials Slider
+- Contact Information
+- Sending emails
+- Newsletter / Notifications system
+- Direct email & phone
+- Logo Design
+- Documentation
+- Software Listings
+- Animated background
+- Information for sellers 
+- User registration page
+- Visual Design

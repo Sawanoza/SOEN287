@@ -1,0 +1,4 @@
+User Guide:
+- The login page can be located by clicking on the "LOGIN" button on the home page
+- The Client's page can be located in the navigation bar at the top right 
+- The Sellers' page can be located in the navigation bar at the top right

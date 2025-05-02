@@ -1,0 +1,36 @@
+<!DOCTYPE html> 
+<html lang ="en">
+<head>
+   <title>Login up Form</title>
+  
+   <link rel="stylesheet" href="stylesheet.css"/>
+
+</head>
+
+<body>
+   <div class="container">
+      <form  class="form" id="login">
+
+         <h1 class="title">Login</h1>
+
+         <div class="message message_error"></div>
+         <div class="input_group">
+            <input type="text" class="input" autofocus placeholder="Username or email" id="emailID">
+            <div class="input_error_message"></div>
+         </div>
+
+         <div class="input_group">
+            <input type="password" class="input" autofocus placeholder="Password" id="passwordID">
+            <div class="input_error_message"></div>
+         </div>
+         <button class="button" type="submit" onclick="onLogIn()">Submit</button>
+         <p class="text">
+            <a  class="link" href="../signup/signup.html" id="linkCreateAccount">Don't have an account? Create account</a>
+         </p>
+
+      </form>
+   </div>
+   <script src="main.js"></script>
+   <script src="../signup/SignUpLogic.js"></script>
+</body>
+</html>
