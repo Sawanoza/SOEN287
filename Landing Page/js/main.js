@@ -46,7 +46,7 @@ btn.addEventListener('change', () => {
 
 //mailing
 (function(){
-  emailjs.init("KIsQqSQ-O1qOUttTl");
+  emailjs.init("EMAILJS_USER_ID");
   })();
 
 function SendMail() {
@@ -57,14 +57,14 @@ function SendMail() {
     message : document.getElementById("contactMessage").value
   }
 
-  emailjs.send('service_8zlye6t', 'template_b91bj6d', params).then(function(response) {
+  emailjs.send('EMAILJS_SERVICE_ID', 'EMAILJS_TEMPLATE_ID_CONTACT', params).then(function(response) {
     alert("Email sent successfully!");  
   });
 }
 
 function SubscribeMail() {
   var params = {email_id : document.getElementById("mc-email").value}
-  emailjs.send('service_8zlye6t', 'template_3z6wrpr', params).then(function(response) {
+  emailjs.send('EMAILJS_SERVICE_ID', 'EMAILJS_TEMPLATE_ID_SUBSCRIBE', params).then(function(response) {
     alert("Subscribed successfully!");  
   });
 
